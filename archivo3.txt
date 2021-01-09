@@ -13,11 +13,9 @@ Esta es la linea 2 del archivo 3
 
 
 Esta es la linea 3 del archivo, estoy en cabecera y voy a hacer commit
-<<<<<<< HEAD
-=======
 
 Cambio en cabecera
->>>>>>> cabecera
+
 
 
 Linea creada para hacer commit desde github
